@@ -1,0 +1,12 @@
+{
+    "users":[
+        {"id":1, "nome":"Abner", "region":"Centro-Oeste"},
+        {"id":2, "nome":"Danone", "region":"Norte"},
+	    {"id":3, "nome":"Jorge", "region":"Sul"},
+	    {"id":4, "nome":"Iago", "region":"Sudeste"},
+	    {"id":5, "nome":"Nani", "region":"Centro Oeste"},
+	    {"id":6, "nome":"Fabio", "region":"Nigéria"}
+    ]
+}
+
+ 
